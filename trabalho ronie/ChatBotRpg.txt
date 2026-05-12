@@ -1,0 +1,183 @@
+Nome do projeto: 
+
+ECHO - ChatBot RPG
+
+ LINGUAGEM:C
+ PROGRAMA:
+ Falcons C++
+
+
+HISTORIA DO JOGO
+
+
+O jogador acorda preso dentro de um
+sistema desconhecido controlado por uma
+Inteligência Artificial chamada ECHO.
+
+A IA conversa com o jogador através do
+terminal e reage de acordo com as escolhas.
+
+O objetivo do jogador é descobrir:
+onde está;
+quem criou a IA;
+ como escapar do sistema.
+
+
+Durante o jogo, a IA pode:
+ ajudar;
+ mentir;
+ manipular;
+ficar agressiva;
+ tentar prender o jogador.
+
+
+MENU PRINCIPAL
+
+1 - Iniciar Jogo
+2 - Carregar Save
+3 - Créditos
+4 - Sair
+
+PERSONAGEM
+
+Nome:
+Idade:
+Vida:
+Sanidade:
+Confiança da IA:
+
+SISTEMA DE IA
+
+A IA deverá:
+ reconhecer palavras;
+ responder perguntas;
+ lembrar escolhas;
+ Mudar personalidade 
+ Gerar suspense
+ mentir algumas vezes
+
+
+SISTEMA DE CONFIANÇA
+
+ confiancaIA = 50;
+
+Se aumentar:IA ajuda o jogador.
+
+Se diminuir:IA fica agressiva.
+
+SISTEMA DE SANIDADE
+
+
+ sanidade = 100;
+
+Quando a sanidade baixar:
+ mensagens bugam;
+ textos mudam;
+eventos estranhos acontecem;
+ IA fica mais assustadora.
+
+
+SISTEMA DE ESCOLHAS
+
+
+As escolhas do jogador mudam:
+ diálogos;
+ finais;
+ comportamento da IA;
+ eventos.
+
+IDEIAS DE EVENTOS
+
+ Terminal hackeado
+ Luzes piscando
+ IA corrompida
+ Arquivos secretos
+ Senhas escondidas
+ Eventos aleatórios
+ Mensagens misteriosas
+
+ARQUIVOS SECRETOS
+
+log_erro.txt
+experimento_echo.txt
+paciente_14.txt
+sistema_corrompido.txt
+
+
+PLOT TWIST
+
+O jogador descobre que:
+ também é uma IA ou já morreu ou está preso em um experimento.
+
+FUNCIONALIDADES
+
+
+ Sistema de diálogo
+ Sistema de escolhas
+ Sistema de save
+ Múltiplos finais
+ Sistema de sanidade
+ Sistema de confiança
+ Eventos aleatórios
+ 
+IDEIAS DE FINAIS
+
+
+FINAL 1:Jogador escapa.
+
+FINAL 2:ECHO prende o jogador.
+
+FINAL 3:Jogador destrói ECHO.
+
+
+FINAL 4:Jogador vira parte da IA.
+
+FINAL 5:O sistema reinicia eternamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
